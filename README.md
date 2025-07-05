@@ -16,11 +16,7 @@ sos-auto-design-system/
 ├── docs/ # Guia visual (PDF ou Markdown)
 └── tokens/ # Variáveis de design para consumo em código
 
-yaml
-Copy
-Edit
 
----
 
 ## 🧰 O que está incluído
 
